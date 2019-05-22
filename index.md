@@ -7,7 +7,13 @@
 ## Profile
 
 ## Expertise
-Go, PHP/Symfony, Java/Spring, Kubernetes/Docker, RabbitMQ, ZeroMQ, RESTful API, Swagger, Oracle DB, PostreSQL, MySQL, SQLite, ElasticSearch, Sphinx, Digital Ocean Cloud, Jenkins, Data Structures, Algorithms, Data Structures, S.O.L.I.D., TDD, Selenium 
+- Go, PHP/Symfony, Java/Spring, Kubernetes/Docker, Jenkins;
+- Oracle DB, PostreSQL, MySQL, MongoDB, SQLite;
+- RabbitMQ, ZeroMQ;
+- ElasticSearch, Sphinx;
+- RESTful API, Swagger;
+- Data Structures, Algorithms, Data Structures, S.O.L.I.D.;
+- TDD, Selenium.
 
 ## Professional Experience
 
