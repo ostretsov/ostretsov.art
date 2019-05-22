@@ -1,4 +1,6 @@
 ## Contacts
+- Location: Russia (UTC+3)
+- [Skype](skype:rustyfog?chat)
 - [Email](mailto:OstretsovAA@gmail.com)
 - [Telegram](tg://resolve?domain=OstretsovAA)
 
