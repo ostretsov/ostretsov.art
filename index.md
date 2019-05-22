@@ -1,6 +1,6 @@
 ## Contacts
-[Email](mailto:OstretsovAA@gmail.com)
-[Telegram](tg://resolve?domain=OstretsovAA)
+- [Email](mailto:OstretsovAA@gmail.com)
+- [Telegram](tg://resolve?domain=OstretsovAA)
 
 ## Profile
 
