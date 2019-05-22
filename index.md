@@ -12,7 +12,7 @@
 - RabbitMQ, ZeroMQ;
 - ElasticSearch, Sphinx;
 - RESTful API, Swagger;
-- Data Structures, Algorithms, Data Structures, S.O.L.I.D.;
+- Data Structures, Algorithms, S.O.L.I.D.;
 - TDD, Selenium.
 
 ## Professional Experience
