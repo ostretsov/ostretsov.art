@@ -1,10 +1,4 @@
-## Contacts
-- Location: Russia (UTC+3)
-- [Skype](skype:rustyfog?chat)
-- [Email](mailto:OstretsovAA@gmail.com)
-- [Telegram](tg://resolve?domain=OstretsovAA)
-
-## Profile
+## Senior Software Developer / Profile
 
 ## Expertise
 - Go, PHP/Symfony, Java/Spring, Kubernetes/Docker, Jenkins;
@@ -18,3 +12,9 @@
 ## Professional Experience
 
 ## Education
+
+## Contacts
+- Location: Russia (UTC+3)
+- [Skype](skype:rustyfog?chat)
+- [Email](mailto:OstretsovAA@gmail.com)
+- [Telegram](tg://resolve?domain=OstretsovAA)
