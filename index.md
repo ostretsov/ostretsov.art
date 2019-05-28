@@ -1,13 +1,20 @@
-## Senior Software Developer / Profile
+## Senior Full-Stack Software Engineer / Profile
+Over 10 years in back-end applications development using Go, JavaScript, PHP, Python and Java. 
+Able to build failover and documented RESTful API service using modern frameworks. I have a good experience with building different services using S.O.L.I.D, 
+Design Patterns and microservice architecture. Actively use Kubernetes/Docker, Jenkins and know all aspects of application building and deployment. I always cover my code by tests.
+
+Proactive, enthusiastic, optimistic, hard-working, fast-learning are words which describe me the best. Looking
+forward to working on your next project!
 
 ## Expertise
-- Go, PHP/Symfony, Java/Spring, Kubernetes/Docker, Jenkins;
+- Go, JavaScript/React, PHP/Symfony, Python/Django, Java/Spring, Kubernetes/Docker, Jenkins;
 - Oracle DB, PostreSQL, MySQL, MongoDB, SQLite;
 - RabbitMQ, ZeroMQ;
 - ElasticSearch, Sphinx;
 - RESTful API, Swagger;
 - Data Structures, Algorithms, S.O.L.I.D.;
-- TDD, Selenium.
+- TDD, Selenium;
+- Cloud solutions (AWS, Digital Ocean).
 
 ## Professional Experience
 
