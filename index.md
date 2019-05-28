@@ -3,8 +3,7 @@ Over 10 years in back-end applications development using Go, JavaScript, PHP, Py
 Able to build failover and documented RESTful API service using modern frameworks. I have a good experience with building different services using S.O.L.I.D, 
 Design Patterns and microservice architecture. Actively use Kubernetes/Docker, Jenkins and know all aspects of application building and deployment. I always cover my code by tests.
 
-Proactive, enthusiastic, optimistic, hard-working, fast-learning are words which describe me the best. Looking
-forward to working on your next project!
+I am confident in the quality of my work, so I provide test week.
 
 ## Expertise
 - Go, JavaScript/React, PHP/Symfony, Python/Django, Java/Spring, Kubernetes/Docker, Jenkins;
@@ -19,6 +18,8 @@ forward to working on your next project!
 ## Professional Experience
 
 ## Education
+- Pacific National University (Russia): Master Degree, Information Systems (2003 - 2008);
+- University of Amsterdam (MOOC): Basic Statstics course (2016).
 
 ## Contacts
 - Location: Russia (UTC+3)
