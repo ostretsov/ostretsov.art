@@ -1,5 +1,5 @@
 ## Senior Full-Stack Software Engineer
-Over 10 years in back-end applications development using Go, JavaScript, PHP, Python and Java. 
+Over 10 years in back-end applications development using Go, PHP, JavaScript, Python and Java. 
 Able to build failover and documented RESTful API service using modern frameworks. I have a good experience with building different services using S.O.L.I.D, 
 Design Patterns and microservice architecture. Actively use Kubernetes/Docker, Jenkins and know all aspects of application building and deployment. I always cover my code by tests.
 
