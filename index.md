@@ -6,7 +6,7 @@ Design Patterns and microservice architecture. Actively use Kubernetes/Docker, J
 I am confident in the quality of my work, so I provide test week.
 
 ## Expertise
-- Go, JavaScript/React, PHP/Symfony, Python/Django, Java/Spring, Kubernetes/Docker, Jenkins;
+- Go/Gin/GORM, PHP/Symfony/Doctrine, JavaScript/React, Python/Django, Java/Spring, Kubernetes/Docker, Jenkins;
 - Oracle DB, PostreSQL, MySQL, MongoDB, SQLite;
 - RabbitMQ, ZeroMQ;
 - ElasticSearch, Sphinx;
