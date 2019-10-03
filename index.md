@@ -13,7 +13,7 @@ I am confident in the quality of my work, so I provide test week.
 - RESTful API, Swagger;
 - Data Structures, Algorithms, S.O.L.I.D.;
 - TDD, Selenium;
-- Cloud solutions (AWS, Digital Ocean).
+- Cloud solutions (AWS, Digital Ocean, Hetzner cloud).
 
 ## Professional Experience
 - Self-employed individual / since 2012
