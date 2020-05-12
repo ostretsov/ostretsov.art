@@ -31,6 +31,4 @@ I am confident in the quality of my work, so I provide test week.
 - [Telegram](tg://resolve?domain=OstretsovAA)
 - [Facebook](https://www.facebook.com/OstretsovArtem)
 
----
-
-[notes](http://ostretsov.ru/notes/)
+### [Notes](http://ostretsov.ru/notes/)
