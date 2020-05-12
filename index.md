@@ -30,3 +30,7 @@ I am confident in the quality of my work, so I provide test week.
 - [Email](mailto:OstretsovAA@gmail.com)
 - [Telegram](tg://resolve?domain=OstretsovAA)
 - [Facebook](https://www.facebook.com/OstretsovArtem)
+
+---
+
+[notes](http://ostretsov.ru/notes/)
