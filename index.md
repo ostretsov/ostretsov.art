@@ -13,7 +13,7 @@ I am confident in the quality of my work, so I provide test week.
 - RESTful API, Swagger;
 - Data Structures, Algorithms, S.O.L.I.D.;
 - TDD, Selenium;
-- Cloud solutions (AWS, Digital Ocean, Hetzner cloud).
+- Cloud solutions (AWS, Digital Ocean, Hetzner cloud);
 
 ## Professional Experience
 - Self-employed individual / since 2012
@@ -23,6 +23,9 @@ I am confident in the quality of my work, so I provide test week.
 ## Education
 - Pacific National University (Russia): Master Degree, Information Systems (2003 - 2008);
 - University of Amsterdam (MOOC): Basic Statstics course (2016).
+
+## Interests
+- Machine Learning
 
 ## Contacts
 - Location: Russia (UTC+3)
