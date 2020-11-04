@@ -16,7 +16,8 @@ I am confident in the quality of my work, so I provide test week.
 - Cloud solutions (AWS, Digital Ocean, Hetzner cloud);
 
 ## Professional Experience
-- Self-employed individual / since 2012
+- Self-employed individual / since 2012:
+  * [gitlab profile](https://gitlab.com/ostretsovaa);
 - TTK (one of the TOP-5 Russian telecommunications companies) / 2010 - 2012
 - Software developer in web-designing company / 2007 - 2010
 
